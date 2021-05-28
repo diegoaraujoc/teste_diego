@@ -17,7 +17,6 @@ Coluna
 Camisa
 
 
+Novo comentário
 
-Complemento Darlan
-
-Darlan
+print("Hello James")
